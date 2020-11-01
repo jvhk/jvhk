@@ -4,7 +4,7 @@
   <samp>
     I'm João Vitor (<b>hk</b>) :wave:
     <br><br>
-    I'm a computer engineering student and Web :globe_with_meridians: developer aspirant!
+    I'm a computer engineering student and Web developer aspirant!
     <br><br>
     I believe in my skills and dedication :grin:
     <br><br>
@@ -32,6 +32,11 @@
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="php" style="vertical-align:top; margin:4px">
+  
+  
   
 
 ---
