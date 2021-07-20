@@ -90,9 +90,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jvhk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp; <!--Linkedin-->
-  <a href="https://instagram.com/joaovdoc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="30px" alt="Instagram"></a> &nbsp; &nbsp; <!--Instagram-->
-  <a href="https://twitter.com/joaovdoc"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="30px" alt="Twitter">     </a> &nbsp; &nbsp; <!--Twitter-->
+  <a href="https://www.linkedin.com/in/jvhk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="" alt="LinkedIn"></a> &nbsp; &nbsp; <!--Linkedin-->
+  <a href="https://instagram.com/joaovdoc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="" alt="Instagram"></a> &nbsp; &nbsp; <!--Instagram-->
+  <a href="https://twitter.com/joaovdoc"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="" alt="Twitter">     </a> &nbsp; &nbsp; <!--Twitter-->
 </p>
 
 <p align="center">
