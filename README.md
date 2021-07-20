@@ -26,7 +26,6 @@
 <a href="https://github.com/Daggy1234">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvhk&layout=compact&langs_count=9&hide=css,html" />
 </a>
----
 
 ### - Languages and Tools...
 
