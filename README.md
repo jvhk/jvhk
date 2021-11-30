@@ -38,13 +38,9 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="html" style="vertical-align:top; margin:4px"> <!--javascript-->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" style="vertical-align:top; margin:4px"><!--java-->
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shellscript" style="vertical-align:top; margin:4px"> <!--shellscript-->
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" style="vertical-align:top; margin:4px"> <!--vscode-->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" style="vertical-align:top; margin:4px"> <!--php-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" style="vertical-align:top; margin:4px"> <!--python-->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" style="vertical-align:top; margin:4px"> <!--c-->
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" style="vertical-align:top; margin:4px"> <!--cpp-->
-  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="elixir" style="vertical-align:top; margin:4px"> <!--elixir-->
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" style="vertical-align:top; margin:4px"> <!--json-->
   
   
   
@@ -76,7 +72,7 @@
 ### - I'm currently...
 
 - Improving my web develepment skills.
-- Learning Spring Boot too.
+- Learning Spring Boot.
 - Adding MySQL database to my skill set.
 - Understanding MongoDB database.
 
@@ -90,8 +86,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jvhk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="" alt="LinkedIn"></a> &nbsp; &nbsp; <!--Linkedin-->
-  <a href="https://instagram.com/joaovdoc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="" alt="Instagram"></a> &nbsp; &nbsp; <!--Instagram-->
-  <a href="https://twitter.com/joaovdoc"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="" alt="Twitter">     </a> &nbsp; &nbsp; <!--Twitter-->
 </p>
 
 <p align="center">
