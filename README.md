@@ -4,13 +4,11 @@
   <samp>
     I'm João Vitor (<b>hk</b>) :wave:
     <br><br>
-    I'm a computer engineering student and Web developer aspirant!
+    I'm a computer engineering student and web development intern!
     <br><br>
     I believe in my skills and dedication :grin:
-    <br><br>
-    HIRE ME!
-    <br><br>
-  </samp>
+    <br><br>    
+     </samp>
 </p>
 
 <br>
@@ -73,8 +71,7 @@
 
 - Improving my web develepment skills.
 - Learning Spring Boot.
-- Adding MySQL database to my skill set.
-- Understanding MongoDB database.
+- Adding VueJs to my skill set.
 
 ---
 
@@ -87,13 +84,4 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jvhk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="" alt="LinkedIn"></a> &nbsp; &nbsp; <!--Linkedin-->
 </p>
-
-<p align="center">
-  <i> Open to anything under the stars :sparkles: </i>
-</p>
-
 <br>
-
-<p align="center">
-  Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
-</p>
